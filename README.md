@@ -8,7 +8,7 @@
 
 # Hey, I'm Kiran Koppera!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=MBA+%26+Engineering+Student+%F0%9F%8E%93;AI+%26+Data+Analytics+Enthusiast+%F0%9F%A4%96;Python+%7C+SQL+%7C+Power+BI+Developer+%F0%9F%92%BB;Turning+Intelligence+into+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=650&lines=MBA+%26+Engineering+Student+%F0%9F%8E%93;AI+%26+Business+Developing+Enthusiast+%F0%9F%A4%96;Turning+Intelligence+into+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -117,7 +117,7 @@ MBA & Engineering Student with 1.5 years of experience in Data Analytics and Bus
 
 ---
 
-🤖 *"Turning intelligence into impact."* — Kiran Koppera
+🤖 *"Turning intelligence into impact."* - Kiran Koppera
 
 <sub>Made with ❤️ by Kiran Koppera | MBA & Engineering Student | AI Enthusiast</sub>
 
