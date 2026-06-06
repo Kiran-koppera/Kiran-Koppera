@@ -81,16 +81,10 @@ MBA & Engineering Student with 1.5 years of experience in Data Analytics and Bus
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kiran-koppera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiran-koppera&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran-koppera&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
-
-</div>
 
 ---
 
@@ -99,8 +93,7 @@ MBA & Engineering Student with 1.5 years of experience in Data Analytics and Bus
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kiran-koppera&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![GitHub Trophies](https://img.shields.io/badge/GitHub%20Trophies-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
