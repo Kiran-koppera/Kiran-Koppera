@@ -8,23 +8,32 @@
 
 # Hey, I'm Kiran Koppera!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=MBA+%26+Engineering+Student+%F0%9F%8E%93;Data+Analytics+Enthusiast+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+Developer+%F0%9F%92%BB;Turning+Data+into+Decisions+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=MBA+%26+Engineering+Student+%F0%9F%8E%93;AI+%26+Data+Analytics+Enthusiast+%F0%9F%A4%96;Python+%7C+SQL+%7C+Power+BI+Developer+%F0%9F%92%BB;Turning+Intelligence+into+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 <!-- SECTION B: ABOUT ME -->
-## 🙋‍♂️ About Me
+## 🙋 About Me
 
-I'm a passionate **MBA & Engineering Student** with **1.5 years of experience** in data analytics and business intelligence. I love transforming raw data into actionable insights that drive real decisions.
+| Integrating Technical Acumen with Business Strategy |
 
-- 🎓 Currently pursuing my **MBA & Engineering** degree
-- 📊 Building dashboards, automating workflows, and telling stories with data
-- 🎥 Content creator on **YouTube**, **Medium**, and **Instagram** — sharing knowledge in tech & analytics
-- ⚡ Fun fact: I believe every dataset has a story waiting to be told
-- 🌍 On a mission to bridge the gap between business strategy and data science
-- ☕ Fueled by coffee, curiosity, and clean queries
+MBA & Engineering Student with 1.5 years of experience in Data Analytics and Business Intelligence. Passionate about leveraging AI, automation, and data-driven strategies to solve business challenges, improve operational efficiency, and unlock growth opportunities.
+
+- 🎓 Pursuing MBA & Engineering with a focus on Business, Analytics, and Technology
+
+- 🤖 Exploring AI tools to learn, experiment, and build impactful solutions
+
+- ⚡ Designing workflow automation systems to streamline business processes
+
+- 📈 Analyzing data to predict bottlenecks, optimize performance, and support decision-making
+
+- 🌍 Bridging Business Strategy and AI to create measurable value
+
+- 🚀 Driven by innovation, continuous learning, and problem-solving
+
+- ☕ Powered by curiosity, coffee, and clean data
 
 ---
 
@@ -36,6 +45,11 @@ I'm a passionate **MBA & Engineering Student** with **1.5 years of experience** 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🤖 AI & Automation
+![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### 📊 BI & Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -56,8 +70,6 @@ I'm a passionate **MBA & Engineering Student** with **1.5 years of experience** 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kiran%20Koppera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirankoppera)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KiranKoppera)
-[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kirankoppera)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kirankoppera)
 
 </div>
@@ -98,15 +110,15 @@ I'm a passionate **MBA & Engineering Student** with **1.5 years of experience** 
 
 <div align="center">
 
-I'm always open to collaborating on **data analytics**, **business intelligence**, and **Python** projects. Let's build something impactful together!
+🤝 Passionate about collaborating on AI-powered solutions, business intelligence, process automation, and growth-focused analytics. Let's transform ideas into scalable business outcomes.
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirankoppera)
 [![Email](https://img.shields.io/badge/Send%20Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirankoppera@gmail.com)
 
 ---
 
-⭐ *"Data is not just numbers — it's the language of decisions."* — Kiran Koppera
+🤖 *"Turning intelligence into impact."* — Kiran Koppera
 
-<sub>Made with ❤️ by Kiran Koppera | MBA & Engineering Student | Data Analytics Enthusiast</sub>
+<sub>Made with ❤️ by Kiran Koppera | MBA & Engineering Student | AI Enthusiast</sub>
 
 </div>
